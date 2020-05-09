@@ -1,2 +1,5 @@
-# hello_world
-This is a test to test my code lol 
+
+
+
+Hello world this is the newer version of patreon
+I am wanting to study computer security and thats pretty much it XD
